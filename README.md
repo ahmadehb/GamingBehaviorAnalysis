@@ -44,3 +44,10 @@ src/: Contains the Python scripts for data analysis and machine learning.
 script.py: Main Python script for analysis and modeling.
 README.md: Project documentation.
 GamingProj.tex: LaTeX file for the report.
+
+## Dataset
+
+The dataset includes player demographics, engagement levels, in-game purchases, and session statistics. It was loaded into an SQLite database for querying and analysis.
+
+- **Source**: [Predict Online Gaming Behavior Dataset](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset) on Kaggle.
+
