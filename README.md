@@ -35,3 +35,12 @@ The dataset includes player demographics, engagement levels, in-game purchases, 
    - **Custom Logistic Regression**: Built a gradient descent-based classifier.
 
 ## Folder Structure
+
+The project is organized as follows:
+
+plots/: Contains visualizations of the data analysis.
+visualizations/: Subfolder for storing specific visualization files.
+src/: Contains the Python scripts for data analysis and machine learning.
+script.py: Main Python script for analysis and modeling.
+README.md: Project documentation.
+GamingProj.tex: LaTeX file for the report.
